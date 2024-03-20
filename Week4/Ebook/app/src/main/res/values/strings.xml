@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Ebook</string>
+    <string name="browse">Browse</string>
+    <string name="search_library">Search Library</string>
+    <string name="my_library">My Library</string>
+    <string name="available_books">Available Books</string>
+    <string name="search_book">Search book</string>
+</resources>
